@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<meta charset="utf-8">
+  	<title>%s</title>
+  	<link rel=stylesheet href="telegram-history-dump.css">
+  </head>
+  <body style='background-image: url("%s")'>
+  	<div class='navigation-top'><a href="index.html">Back to index</a>%s</div>
+  	<h1>%s</h1>
+        <img class='avatar' src='%s'>
